@@ -6,6 +6,12 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarbes1&show_icons=true&theme=radical)](https://github.com/cbarbes1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarbes1&layout=compact)](https://github.com/cbarbes1)
 
