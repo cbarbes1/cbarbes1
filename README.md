@@ -1,6 +1,12 @@
 # Cole Barbes
 
+## Contact
 
+Feel free to reach out to me for collaboration, questions, or just to say hello:
+
+- GitHub: [Cole Barbes](https://github.com/cbarbes1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cole-barbes-2a1699239)
+- Email: cbarbes02@gmail.com
 
 <p align="center">
   <a href="https://github.com/cbarbes1">
